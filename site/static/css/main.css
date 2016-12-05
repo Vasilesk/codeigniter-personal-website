@@ -1,0 +1,32 @@
+.main-title
+{
+  text-align: center;
+}
+
+.main-title a
+{
+  color: #222222;
+  /*border-bottom: 0;*/
+}
+
+.main-title a:hover
+{
+  color: #888;
+}
+
+.footer-notice
+{
+    font-size: 80%;
+    text-align: center;
+}
+
+.grid .portable
+{
+  display: inline-block;
+  width: 140px;
+  margin: 0;
+  padding: 20px;
+  text-align: left;
+  position: relative;
+}
+
